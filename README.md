@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=dmAc7kPIK4c
 
 
 <a name="commandInstall"></a>
-## 6. Install Command
+## 3. Install Command
 
 ### Database dependency is --> mysql Ver 8.0.23 for Win64 on x86_64  
 ### npm install command will install javascript dependencies
@@ -63,7 +63,7 @@ https://www.youtube.com/watch?v=dmAc7kPIK4c
 npm i
 
 <a name="commandTest"></a>
-## 7. Test Command
+## 4. Test Command
 
 You can sync model changes by changing **force: false** to true. This will also remove all data and start fresh.
 Once you have synced, stop the applicatio by using ctrl + c on your keyboard and change the force:true to false and restart the application.
