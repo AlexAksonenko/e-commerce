@@ -54,23 +54,6 @@ Part 3 - Functionality - Once you open the video.
 https://www.youtube.com/watch?v=dmAc7kPIK4c
 
 
-
-<a name="features"></a>
-## 3. Features
-
-
-
-
-<a name="credits"></a>
-## 4. Credits
-
-Thank you Esteban Romero for working on this project.
-
-<a name="licenses"></a>
-## 5. Licenses
-
-mit
-
 <a name="commandInstall"></a>
 ## 6. Install Command
 
