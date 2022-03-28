@@ -49,6 +49,11 @@ Part 2 -  Functionality - Once you open the video.
 https://drive.google.com/file/d/1p4UGva7LK76BrCmfX2Xt0Gw46pYO6qAX/view
 
 
+Part 3 - Functionality - Once you open the video.
+
+https://www.youtube.com/watch?v=dmAc7kPIK4c
+
+
 
 <a name="features"></a>
 ## 3. Features
