@@ -1,18 +1,9 @@
 ## Object-Relational Mapping (Oleksandr Aksonenko) Challenge: E-commerce 
 
-1. [ Description. ](#desc)
-2. [ Web Address. ](#web-address)
-3. [ Usage tips. ](#usage)
-4. [ Features. ](#features)
-5. [ Credits. ](#credits)
-6. [ Licenses. ](#licenses)
-7. [ Install Command. ](#commandInstall)
-8. [ Test Command. ](#commandTest)
-9. [ Contributing. ](#contributing)
-9. [ Questions. ](#questions)
-
-
-
+1. [ Web Address. ](#web-address)
+2. [ Usage tips. ](#usage)
+3. [ Install Command. ](#commandInstall)
+4. [ Test Command. ](#commandTest)
 
 
 <a name="web-address"></a>
